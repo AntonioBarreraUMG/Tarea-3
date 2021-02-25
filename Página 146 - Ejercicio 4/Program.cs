@@ -6,7 +6,7 @@ namespace Página_146___Ejercicio_4
     {
         static void Main(string[] args)
         {
-            int cont = 3, cont2 = 0;
+            int cont = 2, cont2 = 0;
 
             while (cont <= 1000)
             {
